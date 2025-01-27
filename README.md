@@ -33,7 +33,7 @@ Sou Eduardo, um profissional apaixonado por Mobile e tecnologia em geral. Ao lon
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=duardogcandido&show_icons=true&rank_icon=github&theme=algolia&include_all_commits=true&locale=pt-br" 
   />
@@ -41,7 +41,7 @@ Sou Eduardo, um profissional apaixonado por Mobile e tecnologia em geral. Ao lon
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200"
+      height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=duardogcandido&theme=algolia&hide_progress=true&custom_title=Tecnologias&langs_count=8" 
   />
 
