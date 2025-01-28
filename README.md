@@ -13,17 +13,21 @@ Sou Eduardo, um profissional apaixonado por Mobile e tecnologia em geral. Ao lon
 <div style="display: inline_block"><br>
   <img align="center" alt="duardo-Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
   <img align="center" alt="duardo-Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">
-  <img align="center" alt="duardo-Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img align="center" alt="duardo-AndroidStudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="duardo-Kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="duardo-Swift" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg">
-  <img align="center" alt="duardo-VisualStudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
   <img align="center" alt="duardo-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="duardo-DotnetCore" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="duardo-VisualStudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
+  <img align="center" alt="duardo-Materialize" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/materializecss-original.svg">
+  <img align="center" alt="duardo-Html5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="duardo-Swift" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg">
   <img align="center" alt="duardo-Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
   <img align="center" alt="duardo-AngularMaterial" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg">
+  <img align="center" alt="duardo-Javascript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="duardo-Typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img align="center" alt="duardo-Css3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="duardo-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="duardo-Sqlite" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
 
 </div>
 
@@ -32,6 +36,9 @@ Sou Eduardo, um profissional apaixonado por Mobile e tecnologia em geral. Ao lon
 <p>
   <img 
     align="left" 
+    alt="GitHub Stats" 
+    alt="GitHub Stats" 
+    alt="GitHub Stats" 
     alt="GitHub Stats" 
     height="150" 
     style="padding-right: 10px;" 
