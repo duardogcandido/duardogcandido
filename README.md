@@ -28,6 +28,7 @@ Sou Eduardo, um profissional apaixonado por Mobile e tecnologia em geral. Ao lon
   <img align="center" alt="duardo-Css3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="duardo-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="duardo-Sqlite" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="duardo-Sourcetree" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original.svg">
 
 </div>
 
